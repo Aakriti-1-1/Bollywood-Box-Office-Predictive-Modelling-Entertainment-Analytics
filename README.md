@@ -116,7 +116,3 @@ Other predictors, including YouTube Views, YouTube Dislikes and the individual r
 This project applies statistical modelling to understand the business drivers of Bollywood box office performance. By combining production budgets, release characteristics, genre and digital audience engagement, the analysis identifies meaningful relationships between movie attributes and commercial outcomes.
 
 The output shows importance of production investment and audience engagement in explaining box office performance, which supports data analytics as evidence-based decision-making aid in the entertainment industry.
-
----
-
-**Project Domain:** Entertainment Analytics | Marketing Analytics | Financial Performance Analysis
